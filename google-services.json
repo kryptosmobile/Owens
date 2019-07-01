@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459115189650",
+    "firebase_url": "https://generalpushtenant.firebaseio.com",
+    "project_id": "generalpushtenant",
+    "storage_bucket": "generalpushtenant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459115189650:android:9f49804ede65cc9d",
+        "android_client_info": {
+          "package_name": "com.kryptosmobile.OSCC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459115189650-3ggfq1clc618telo7rdbndg52ifi7jlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnRRvdJPVAHlP5PjmGa9Y-zXBzD-uuLRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459115189650-3ggfq1clc618telo7rdbndg52ifi7jlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
